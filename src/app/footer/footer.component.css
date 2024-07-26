@@ -1,0 +1,53 @@
+.footer-1 {
+    background-color: lightyellow;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.container-2 {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.container {
+    flex: 1;
+}
+
+.logo-landing-1 {
+    flex: 1;
+    text-align: center;
+    margin-right: 150px;
+}
+
+
+.footer-button-pur {
+    background-color: brown;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    width: 150px;
+    text-align: center;
+    margin-right: 80px;
+}
+
+.footer-button-pur:hover {
+    background-color: rgb(22, 229, 84);
+}
+
+.footer-button-pur {
+    margin-left: auto;
+}
+.info{
+    margin-top: 30px;
+    font-size: 50px;
+    margin-right: 20px;
+}
+.logos-info{
+    display: flex;
+    gap: 10px;
+}

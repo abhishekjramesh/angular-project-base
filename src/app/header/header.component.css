@@ -1,0 +1,19 @@
+.group-1 {
+    margin-right: 20px; 
+    text-decoration: none;
+    color: #000; 
+    margin-left: 300px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 10px; 
+    background-color: #ecf6c6;
+}
+.element-button {
+    margin-right :200px;  
+}
+a {
+    margin-right: 100px;
+}

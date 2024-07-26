@@ -1,0 +1,63 @@
+.landing-page-1 {
+    background: white;
+    display: flex;
+    flex-direction: column; 
+}
+
+.landing-page-1 .hero {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+
+
+
+.developer1 {
+    float: right;
+    clear: both; 
+}
+
+
+
+h2 {
+    display: inline;
+    position: relative;
+    top: 100px;
+    right: 330px;
+}
+
+.content-2 {
+    position: relative;
+    top: 110px;
+    margin-right: 500px; 
+    clear: both; 
+    
+}
+.container-6{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.developer1 {
+    float: right;
+    margin-top: 50px;
+    margin-left: 50%;
+
+}
+.developer-2{
+    width: 600px;
+}
+.designer-pic{
+    float: right;
+}
+.info{
+    margin-top: 30px;
+    font-size: 50px;
+    margin-right: 20px;
+}
+.logos-info{
+    display: flex;
+    gap: 10px;
+}
